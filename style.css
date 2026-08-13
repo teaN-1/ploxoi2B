@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica+Headline:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+section{
+    padding: 10px;
+}
+header{
+    background-color: rgb(171, 13, 13);
+    color: aliceblue;
+    padding: 1px;
+    text-align: center;
+}
+h2{
+    color:rgb(171, 13, 13);
+}
+article{
+    text-align: center;
+}
+p{
+    font-size: 24px;
+}
+.res{
+    color: rgb(115, 29, 29);
+}
+.rd{
+    color:red;
+    font-weight: bold;
+}
+.bold{
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+    background-color: rgb(243, 231, 231);
+    width: auto;
+    height: 150px;
+}
